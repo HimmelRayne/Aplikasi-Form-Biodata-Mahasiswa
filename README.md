@@ -79,12 +79,5 @@ Project ini dibuat sebagai bagian dari pembelajaran pemrograman Python, khususny
 ## 📂 Struktur Project
 
 ```text
-AplikasiBiodata/
-│
-├── AplikasiBiodata.py
+├── aplikasi_biodata_oop.py
 ├── README.md
-├── .gitignore
-│
-└── screenshots/
-    ├── login.png
-    └── biodata.png
